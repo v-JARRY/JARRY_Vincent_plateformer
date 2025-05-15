@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"O_collision","path":"objects/O_collision/O_collision.yy",},},
     {"id":{"name":"O_plateforme","path":"objects/O_plateforme/O_plateforme.yy",},},
+    {"id":{"name":"O_plateforme1","path":"objects/O_plateforme1/O_plateforme1.yy",},},
     {"id":{"name":"O_postier","path":"objects/O_postier/O_postier.yy",},},
     {"id":{"name":"O_sol","path":"objects/O_sol/O_sol.yy",},},
     {"id":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"S_cube","path":"sprites/S_cube/S_cube.yy",},},
     {"id":{"name":"S_dead_zone","path":"sprites/S_dead_zone/S_dead_zone.yy",},},
     {"id":{"name":"S_mob","path":"sprites/S_mob/S_mob.yy",},},
+    {"id":{"name":"S_plateforme_1","path":"sprites/S_plateforme_1/S_plateforme_1.yy",},},
     {"id":{"name":"S_plateforme","path":"sprites/S_plateforme/S_plateforme.yy",},},
     {"id":{"name":"S_sol","path":"sprites/S_sol/S_sol.yy",},},
   ],
