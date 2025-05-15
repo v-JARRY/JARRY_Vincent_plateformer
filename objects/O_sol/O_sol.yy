@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_collision",
+  "%Name":"O_sol",
   "eventList":[],
   "managed":true,
-  "name":"O_collision",
+  "name":"O_sol",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_collision",
-    "path":"sprites/S_collision/S_collision.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

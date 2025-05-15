@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"O_collision",
+  "%Name":"O_plateforme",
   "eventList":[],
   "managed":true,
-  "name":"O_collision",
+  "name":"O_plateforme",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_collision",
+    "path":"objects/O_collision/O_collision.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_collision",
-    "path":"sprites/S_collision/S_collision.yy",
+    "name":"S_plateforme",
+    "path":"sprites/S_plateforme/S_plateforme.yy",
   },
   "spriteMaskId":null,
   "visible":true,
