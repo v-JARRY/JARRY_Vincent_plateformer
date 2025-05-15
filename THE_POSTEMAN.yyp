@@ -47,6 +47,7 @@
     {"id":{"name":"S_dead_zone","path":"sprites/S_dead_zone/S_dead_zone.yy",},},
     {"id":{"name":"S_mob","path":"sprites/S_mob/S_mob.yy",},},
     {"id":{"name":"S_plateforme_1","path":"sprites/S_plateforme_1/S_plateforme_1.yy",},},
+    {"id":{"name":"S_plateforme_haut","path":"sprites/S_plateforme_haut/S_plateforme_haut.yy",},},
     {"id":{"name":"S_plateforme","path":"sprites/S_plateforme/S_plateforme.yy",},},
     {"id":{"name":"S_sol","path":"sprites/S_sol/S_sol.yy",},},
   ],
