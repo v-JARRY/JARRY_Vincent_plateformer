@@ -34,7 +34,13 @@
   },
   "name":"THE_POSTEMAN",
   "resources":[
+    {"id":{"name":"O_collision","path":"objects/O_collision/O_collision.yy",},},
+    {"id":{"name":"O_postier","path":"objects/O_postier/O_postier.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"S_collision","path":"sprites/S_collision/S_collision.yy",},},
+    {"id":{"name":"S_cube","path":"sprites/S_cube/S_cube.yy",},},
+    {"id":{"name":"S_mob","path":"sprites/S_mob/S_mob.yy",},},
+    {"id":{"name":"S_plateforme","path":"sprites/S_plateforme/S_plateforme.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
