@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"O_bouton","path":"objects/O_bouton/O_bouton.yy",},},
     {"id":{"name":"O_collision","path":"objects/O_collision/O_collision.yy",},},
+    {"id":{"name":"O_death_zone","path":"objects/O_death_zone/O_death_zone.yy",},},
     {"id":{"name":"O_plateforme","path":"objects/O_plateforme/O_plateforme.yy",},},
     {"id":{"name":"O_plateforme1","path":"objects/O_plateforme1/O_plateforme1.yy",},},
     {"id":{"name":"O_postier_2","path":"objects/O_postier_2/O_postier_2.yy",},},
