@@ -24,11 +24,11 @@ var l2D42373E_0;l2D42373E_0 = keyboard_check(ord("D"));if (l2D42373E_0){	///
 	/// @DnDInput : 2
 	/// @DnDParent : 2D42373E
 	/// @DnDArgument : "expr" "true"
-	/// @DnDArgument : "expr_1" "-1"
+	/// @DnDArgument : "expr_1" "1"
 	/// @DnDArgument : "var" "IsKeypressed"
 	/// @DnDArgument : "var_1" "dir_x"
 	IsKeypressed = true;
-	dir_x = -1;}
+	dir_x = 1;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
@@ -40,11 +40,11 @@ var l2C2B44F7_0;l2C2B44F7_0 = keyboard_check(ord("Q"));if (l2C2B44F7_0){	///
 	/// @DnDInput : 2
 	/// @DnDParent : 2C2B44F7
 	/// @DnDArgument : "expr" "true"
-	/// @DnDArgument : "expr_1" "1"
+	/// @DnDArgument : "expr_1" "-1"
 	/// @DnDArgument : "var" "IsKeypressed"
 	/// @DnDArgument : "var_1" "dir_x"
 	IsKeypressed = true;
-	dir_x = 1;}
+	dir_x = -1;}
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1

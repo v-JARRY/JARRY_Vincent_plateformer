@@ -35,7 +35,9 @@
   "name":"THE_POSTEMAN",
   "resources":[
     {"id":{"name":"O_bouton","path":"objects/O_bouton/O_bouton.yy",},},
+    {"id":{"name":"O_collision_avance","path":"objects/O_collision_avance/O_collision_avance.yy",},},
     {"id":{"name":"O_collision","path":"objects/O_collision/O_collision.yy",},},
+    {"id":{"name":"O_death_zone_2","path":"objects/O_death_zone_2/O_death_zone_2.yy",},},
     {"id":{"name":"O_death_zone","path":"objects/O_death_zone/O_death_zone.yy",},},
     {"id":{"name":"O_plateforme","path":"objects/O_plateforme/O_plateforme.yy",},},
     {"id":{"name":"O_plateforme1","path":"objects/O_plateforme1/O_plateforme1.yy",},},
