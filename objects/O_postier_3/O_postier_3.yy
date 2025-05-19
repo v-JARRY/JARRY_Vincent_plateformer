@@ -33,6 +33,7 @@
     {"$GMObjectProperty":"v1","%Name":"longueur","filters":[],"listItems":[],"multiselect":false,"name":"longueur","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"marche","filters":[],"listItems":[],"multiselect":false,"name":"marche","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"dir_y","filters":[],"listItems":[],"multiselect":false,"name":"dir_y","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"bouclier","filters":[],"listItems":[],"multiselect":false,"name":"bouclier","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
