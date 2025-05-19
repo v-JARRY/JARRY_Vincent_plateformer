@@ -37,5 +37,5 @@
     "path":"sprites/S_dead_zone/S_dead_zone.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

@@ -7,9 +7,9 @@ if(marche_D == true){	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
 	/// @DnDHash : 741AF514
 	/// @DnDParent : 1109ECA1
-	/// @DnDArgument : "speed" "2"
+	/// @DnDArgument : "speed" "0.6"
 	/// @DnDArgument : "type" "1"
-	hspeed = 2;
+	hspeed = 0.6;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
