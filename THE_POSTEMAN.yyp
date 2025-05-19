@@ -34,9 +34,11 @@
   },
   "name":"THE_POSTEMAN",
   "resources":[
+    {"id":{"name":"O_bouton","path":"objects/O_bouton/O_bouton.yy",},},
     {"id":{"name":"O_collision","path":"objects/O_collision/O_collision.yy",},},
     {"id":{"name":"O_plateforme","path":"objects/O_plateforme/O_plateforme.yy",},},
     {"id":{"name":"O_plateforme1","path":"objects/O_plateforme1/O_plateforme1.yy",},},
+    {"id":{"name":"O_postier_2","path":"objects/O_postier_2/O_postier_2.yy",},},
     {"id":{"name":"O_postier","path":"objects/O_postier/O_postier.yy",},},
     {"id":{"name":"O_sol","path":"objects/O_sol/O_sol.yy",},},
     {"id":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},},
@@ -54,8 +56,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},},
     {"roomId":{"name":"Test_room2aqua","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},},
+    {"roomId":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},},
     {"roomId":{"name":"Test_room3aero","path":"rooms/Test_room3aero/Test_room3aero.yy",},},
   ],
   "templateType":"game",
