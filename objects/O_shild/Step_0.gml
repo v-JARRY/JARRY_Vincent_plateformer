@@ -7,9 +7,9 @@
 /// @DnDArgument : "y2" "bbox_bottom"
 /// @DnDArgument : "obj" "O_mob"
 /// @DnDArgument : "shape" "1"
-/// @DnDArgument : "notme" "0"
+/// @DnDArgument : "destroylist" "false"
 /// @DnDSaveInfo : "obj" "O_mob"
-var l7058237F_0 = collision_rectangle(x + 0, y + 0, bbox_right, bbox_bottom, O_mob, true, 0);if((l7058237F_0)){	/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
+var l7058237F_0 = collision_rectangle(x + 0, y + 0, bbox_right, bbox_bottom, O_mob, true, 1);if((l7058237F_0)){	/// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
 	/// @DnDVersion : 1
 	/// @DnDHash : 25185E90
 	/// @DnDParent : 7058237F
@@ -57,8 +57,8 @@ else{	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDApplyTo : {O_energie}
 	/// @DnDParent : 31FA5F34
 	/// @DnDArgument : "expr" "false"
-	/// @DnDArgument : "var" "stamina"
+	/// @DnDArgument : "var" "stamina_end"
 	with(O_energie) {
-	stamina = false;
+	stamina_end = false;
 	
 	}}

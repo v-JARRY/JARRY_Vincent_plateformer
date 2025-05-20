@@ -28,12 +28,15 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"boutton_specifique","filters":[],"listItems":[],"multiselect":false,"name":"boutton_specifique","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"go","filters":[],"listItems":[],"multiselect":false,"name":"go","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"go","filters":[],"listItems":[],"multiselect":false,"name":"go","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Test_room1norm","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_bouton",
+    "path":"sprites/S_bouton/S_bouton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
