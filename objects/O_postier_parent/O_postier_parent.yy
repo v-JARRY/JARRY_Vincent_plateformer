@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_mob",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_3","path":"objects/O_postier_3/O_postier_3.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_2","path":"objects/O_postier_2/O_postier_2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_postier_parent",
+  "eventList":[],
   "managed":true,
-  "name":"O_mob",
+  "name":"O_postier_parent",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_mob",
-    "path":"sprites/S_mob/S_mob.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
