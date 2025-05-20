@@ -62,9 +62,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},},
     {"roomId":{"name":"Test_room2aqua","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},},
     {"roomId":{"name":"Test_room3aero","path":"rooms/Test_room3aero/Test_room3aero.yy",},},
+    {"roomId":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

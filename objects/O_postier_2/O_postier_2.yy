@@ -37,6 +37,7 @@
     {"$GMObjectProperty":"v1","%Name":"force_saut","filters":[],"listItems":[],"multiselect":false,"name":"force_saut","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"-10","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"force_gravite","filters":[],"listItems":[],"multiselect":false,"name":"force_gravite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"4","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"marche","filters":[],"listItems":[],"multiselect":false,"name":"marche","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"dash","filters":[],"listItems":[],"multiselect":false,"name":"dash","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
