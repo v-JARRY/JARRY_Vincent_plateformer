@@ -40,6 +40,7 @@
     {"id":{"name":"O_collision","path":"objects/O_collision/O_collision.yy",},},
     {"id":{"name":"O_death_zone_2","path":"objects/O_death_zone_2/O_death_zone_2.yy",},},
     {"id":{"name":"O_death_zone","path":"objects/O_death_zone/O_death_zone.yy",},},
+    {"id":{"name":"O_energie","path":"objects/O_energie/O_energie.yy",},},
     {"id":{"name":"O_enveloppe","path":"objects/O_enveloppe/O_enveloppe.yy",},},
     {"id":{"name":"O_mob","path":"objects/O_mob/O_mob.yy",},},
     {"id":{"name":"O_plateforme","path":"objects/O_plateforme/O_plateforme.yy",},},

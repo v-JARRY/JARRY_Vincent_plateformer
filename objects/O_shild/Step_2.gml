@@ -14,3 +14,12 @@ var l7CD74804_0 = false;l7CD74804_0 = instance_exists(O_postier_3);if(l7CD7480
 	/// @DnDArgument : "var_1" "y"
 	x = O_postier_3.x;
 	y = O_postier_3.y;}
+
+/// @DnDAction : YoYo Games.Common.Else
+/// @DnDVersion : 1
+/// @DnDHash : 53D7581F
+else{	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 53DA9FAF
+	/// @DnDParent : 53D7581F
+	instance_destroy();}
