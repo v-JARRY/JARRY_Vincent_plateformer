@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_c_soleil",
+    "path":"sprites/S_c_soleil/S_c_soleil.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
