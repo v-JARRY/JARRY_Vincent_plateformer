@@ -25,7 +25,17 @@ var l3BF51BBE_0 = collision_line(x + -longueur, y + -largeur, x + -longueur, y +
 	/// @DnDParent : 3BF51BBE
 	/// @DnDArgument : "speed" "-marche"
 	/// @DnDArgument : "type" "1"
-	hspeed = -marche;}
+	hspeed = -marche;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 68B8191D
+	/// @DnDParent : 3BF51BBE
+	/// @DnDArgument : "imageind_relative" "1"
+	/// @DnDArgument : "spriteind" "S_norm_marche2"
+	/// @DnDSaveInfo : "spriteind" "S_norm_marche2"
+	sprite_index = S_norm_marche2;
+	image_index += 0;}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1

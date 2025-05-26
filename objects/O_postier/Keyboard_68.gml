@@ -1,9 +1,3 @@
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 240E8A22
-sprite_index = noone;
-image_index = 0;
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4F49491C
@@ -31,7 +25,17 @@ var l4248D497_0 = collision_line(x + longueur, y + -largeur, x + longueur, y + l
 	/// @DnDParent : 4248D497
 	/// @DnDArgument : "speed" "marche"
 	/// @DnDArgument : "type" "1"
-	hspeed = marche;}
+	hspeed = marche;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 332CCBD6
+	/// @DnDParent : 4248D497
+	/// @DnDArgument : "imageind_relative" "1"
+	/// @DnDArgument : "spriteind" "S_norm_marche1"
+	/// @DnDSaveInfo : "spriteind" "S_norm_marche1"
+	sprite_index = S_norm_marche1;
+	image_index += 0;}
 
 /// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
