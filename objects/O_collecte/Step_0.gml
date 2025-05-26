@@ -5,10 +5,9 @@
 /// @DnDArgument : "op" "1"
 if(stock < 0){	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 090C6990
-	/// @DnDApplyTo : {O_postier_parent}
+	/// @DnDHash : 175E73B5
 	/// @DnDParent : 5D6EA881
-	with(O_postier_parent) instance_destroy();
+	instance_destroy();
 
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 	/// @DnDVersion : 1
