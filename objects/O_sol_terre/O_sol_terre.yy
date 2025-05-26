@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_poste",
+  "%Name":"O_sol_terre",
   "eventList":[],
   "managed":true,
-  "name":"O_poste",
+  "name":"O_sol_terre",
   "overriddenProperties":[],
   "parent":{
     "name":"decord",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_poste",
-    "path":"sprites/S_poste/S_poste.yy",
+    "name":"S_sol_terre",
+    "path":"sprites/S_sol_terre/S_sol_terre.yy",
   },
   "spriteMaskId":null,
   "visible":true,

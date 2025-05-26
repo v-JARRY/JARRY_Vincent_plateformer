@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_poste",
+  "%Name":"O_maison",
   "eventList":[],
   "managed":true,
-  "name":"O_poste",
+  "name":"O_maison",
   "overriddenProperties":[],
   "parent":{
     "name":"decord",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_poste",
-    "path":"sprites/S_poste/S_poste.yy",
+    "name":"S_maison",
+    "path":"sprites/S_maison/S_maison.yy",
   },
   "spriteMaskId":null,
   "visible":true,

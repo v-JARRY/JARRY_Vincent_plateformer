@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_poste",
+  "%Name":"O_nuage",
   "eventList":[],
   "managed":true,
-  "name":"O_poste",
+  "name":"O_nuage",
   "overriddenProperties":[],
   "parent":{
     "name":"decord",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_poste",
-    "path":"sprites/S_poste/S_poste.yy",
+    "name":"S_nuage",
+    "path":"sprites/S_nuage/S_nuage.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"O_poste",
+  "%Name":"O_palimer",
   "eventList":[],
   "managed":true,
-  "name":"O_poste",
+  "name":"O_palimer",
   "overriddenProperties":[],
   "parent":{
     "name":"decord",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_poste",
-    "path":"sprites/S_poste/S_poste.yy",
+    "name":"S_palmier",
+    "path":"sprites/S_palmier/S_palmier.yy",
   },
   "spriteMaskId":null,
   "visible":true,
