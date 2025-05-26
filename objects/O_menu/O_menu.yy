@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_quitter",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_menu",
+  "eventList":[],
   "managed":true,
-  "name":"O_quitter",
+  "name":"O_menu",
   "overriddenProperties":[],
   "parent":{
     "name":"bouton",
     "path":"folders/Objects/ui/bouton.yy",
   },
-  "parentObjectId":{
-    "name":"O_bouton",
-    "path":"objects/O_bouton/O_bouton.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"S_quitter",
-    "path":"sprites/S_quitter/S_quitter.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

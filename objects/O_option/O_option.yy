@@ -9,7 +9,10 @@
     "name":"bouton",
     "path":"folders/Objects/ui/bouton.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_bouton",
+    "path":"objects/O_bouton/O_bouton.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -23,11 +26,17 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"boutton_specifique","filters":[],"listItems":[],"multiselect":false,"name":"boutton_specifique","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"variable_name1","filters":[],"listItems":[],"multiselect":false,"name":"variable_name1","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_option",
+    "path":"sprites/S_option/S_option.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
