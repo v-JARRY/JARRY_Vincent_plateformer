@@ -45,4 +45,14 @@ else{	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDHash : 1D995966
 	/// @DnDParent : 1FB2EE59
 	/// @DnDArgument : "type" "1"
-	hspeed = 0;}
+	hspeed = 0;
+
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 0BB76F64
+	/// @DnDParent : 1FB2EE59
+	/// @DnDArgument : "imageind_relative" "1"
+	/// @DnDArgument : "spriteind" "S_cube"
+	/// @DnDSaveInfo : "spriteind" "S_cube"
+	sprite_index = S_cube;
+	image_index += 0;}
