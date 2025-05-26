@@ -9,8 +9,8 @@
   "name":"O_mob",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"mob",
+    "path":"folders/Objects/mob.yy",
   },
   "parentObjectId":null,
   "persistent":false,

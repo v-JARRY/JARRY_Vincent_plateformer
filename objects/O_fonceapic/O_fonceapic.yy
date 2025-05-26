@@ -14,7 +14,10 @@
     "name":"mob",
     "path":"folders/Objects/mob.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_mob",
+    "path":"objects/O_mob/O_mob.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

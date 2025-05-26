@@ -1,42 +1,49 @@
-/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 /// @DnDVersion : 1
-/// @DnDHash : 58ED9365
-/// @DnDApplyTo : {O_collecte}
-/// @DnDArgument : "var" "invincibilite"
-/// @DnDArgument : "value" "false"
-with(O_collecte) var l58ED9365_0 = invincibilite == false;
-if(l58ED9365_0){	/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDHash : 3F3274DC
+/// @DnDArgument : "obj" "O_shild"
+/// @DnDArgument : "not" "1"
+/// @DnDSaveInfo : "obj" "O_shild"
+var l3F3274DC_0 = false;l3F3274DC_0 = instance_exists(O_shild);if(!l3F3274DC_0){	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 07BF1C05
+	/// @DnDHash : 15138BA0
 	/// @DnDApplyTo : {O_collecte}
-	/// @DnDParent : 58ED9365
-	/// @DnDArgument : "expr" "-1"
-	/// @DnDArgument : "expr_relative" "1"
-	/// @DnDArgument : "var" "stock"
-	with(O_collecte) {
-	stock += -1;
-	
-	}
-
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 7A1CB7CC
-	/// @DnDApplyTo : {O_collecte}
-	/// @DnDParent : 58ED9365
-	/// @DnDArgument : "expr" "true"
+	/// @DnDParent : 3F3274DC
 	/// @DnDArgument : "var" "invincibilite"
-	with(O_collecte) {
-	invincibilite = true;
+	/// @DnDArgument : "value" "false"
+	with(O_collecte) var l15138BA0_0 = invincibilite == false;
+	if(l15138BA0_0){	/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 12B21F98
+		/// @DnDApplyTo : {O_collecte}
+		/// @DnDParent : 15138BA0
+		/// @DnDArgument : "expr" "-1"
+		/// @DnDArgument : "expr_relative" "1"
+		/// @DnDArgument : "var" "stock"
+		with(O_collecte) {
+		stock += -1;
+		
+		}
 	
-	}
-
-	/// @DnDAction : YoYo Games.Instances.Set_Alarm
-	/// @DnDVersion : 1
-	/// @DnDHash : 7E10BCE2
-	/// @DnDApplyTo : {O_collecte}
-	/// @DnDParent : 58ED9365
-	/// @DnDArgument : "steps" "120"
-	with(O_collecte) {
-	alarm_set(0, 120);
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 2E09F49A
+		/// @DnDApplyTo : {O_collecte}
+		/// @DnDParent : 15138BA0
+		/// @DnDArgument : "expr" "true"
+		/// @DnDArgument : "var" "invincibilite"
+		with(O_collecte) {
+		invincibilite = true;
+		
+		}
 	
-	}}
+		/// @DnDAction : YoYo Games.Instances.Set_Alarm
+		/// @DnDVersion : 1
+		/// @DnDHash : 391C4F08
+		/// @DnDApplyTo : {O_collecte}
+		/// @DnDParent : 15138BA0
+		/// @DnDArgument : "steps" "120"
+		with(O_collecte) {
+		alarm_set(0, 120);
+		
+		}}}

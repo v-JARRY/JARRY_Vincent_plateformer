@@ -1,3 +1,12 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 5C96DC0D
+/// @DnDArgument : "imageind_relative" "1"
+/// @DnDArgument : "spriteind" "S_dash1"
+/// @DnDSaveInfo : "spriteind" "S_dash1"
+sprite_index = S_dash1;
+image_index += 0;
+
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 39DFEA90

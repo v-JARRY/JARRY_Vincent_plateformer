@@ -110,6 +110,8 @@
     {"id":{"name":"S_collision","path":"sprites/S_collision/S_collision.yy",},},
     {"id":{"name":"S_crabococo","path":"sprites/S_crabococo/S_crabococo.yy",},},
     {"id":{"name":"S_cube","path":"sprites/S_cube/S_cube.yy",},},
+    {"id":{"name":"S_dash1","path":"sprites/S_dash1/S_dash1.yy",},},
+    {"id":{"name":"S_dash2","path":"sprites/S_dash2/S_dash2.yy",},},
     {"id":{"name":"S_dead_zone","path":"sprites/S_dead_zone/S_dead_zone.yy",},},
     {"id":{"name":"S_eau","path":"sprites/S_eau/S_eau.yy",},},
     {"id":{"name":"S_enveloppe","path":"sprites/S_enveloppe/S_enveloppe.yy",},},

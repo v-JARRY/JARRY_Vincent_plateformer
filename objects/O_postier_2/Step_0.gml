@@ -14,7 +14,16 @@ var l32AB79F6_0;l32AB79F6_0 = keyboard_check(ord("D"));if (!l32AB79F6_0){	//
 		/// @DnDHash : 2967BBE1
 		/// @DnDParent : 6506D901
 		/// @DnDArgument : "type" "1"
-		hspeed = 0;}}
+		hspeed = 0;
+	
+		/// @DnDAction : YoYo Games.Instances.Set_Sprite
+		/// @DnDVersion : 1
+		/// @DnDHash : 29C2D98F
+		/// @DnDParent : 6506D901
+		/// @DnDArgument : "spriteind" "S_aqua_perso"
+		/// @DnDSaveInfo : "spriteind" "S_aqua_perso"
+		sprite_index = S_aqua_perso;
+		image_index = 0;}}
 
 /// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
 /// @DnDVersion : 1.1
