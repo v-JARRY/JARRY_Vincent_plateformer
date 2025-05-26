@@ -12,8 +12,8 @@
   "name":"O_postier",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"perso_norm",
+    "path":"folders/Objects/perso_norm.yy",
   },
   "parentObjectId":{
     "name":"O_postier_parent",

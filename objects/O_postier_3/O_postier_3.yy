@@ -13,8 +13,8 @@
   "name":"O_postier_3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"perso_aero",
+    "path":"folders/Objects/perso_aero.yy",
   },
   "parentObjectId":{
     "name":"O_postier_parent",
@@ -46,8 +46,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_cube",
-    "path":"sprites/S_cube/S_cube.yy",
+    "name":"S_aero_perso",
+    "path":"sprites/S_aero_perso/S_aero_perso.yy",
   },
   "spriteMaskId":null,
   "visible":true,

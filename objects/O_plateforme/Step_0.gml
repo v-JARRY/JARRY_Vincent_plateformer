@@ -3,14 +3,12 @@
 /// @DnDHash : 44767A9F
 /// @DnDArgument : "var" "marche_D"
 /// @DnDArgument : "value" "true"
-if(marche_D == true){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+if(marche_D == true){	/// @DnDAction : YoYo Games.Instances.Sprite_Scale
 	/// @DnDVersion : 1
-	/// @DnDHash : 188F3DCF
+	/// @DnDHash : 65D0AE8A
 	/// @DnDParent : 44767A9F
-	/// @DnDArgument : "spriteind" "S_plateforme"
-	/// @DnDSaveInfo : "spriteind" "S_plateforme"
-	sprite_index = S_plateforme;
-	image_index = 0;
+	/// @DnDArgument : "xscale" "abs(image_xscale)"
+	image_xscale = abs(image_xscale);image_yscale = 1;
 
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
@@ -46,50 +44,52 @@ if(marche_D == true){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 		marche_D = false;
 		marche_G = true;}}
 
-/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDAction : YoYo Games.Common.Else
 /// @DnDVersion : 1
-/// @DnDHash : 58282D29
-/// @DnDArgument : "var" "marche_G"
-/// @DnDArgument : "value" "true"
-if(marche_G == true){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDHash : 187BD20A
+else{	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 6C73EBC2
-	/// @DnDParent : 58282D29
-	/// @DnDArgument : "spriteind" "S_plateforme_1"
-	/// @DnDSaveInfo : "spriteind" "S_plateforme_1"
-	sprite_index = S_plateforme_1;
-	image_index = 0;
-
-	/// @DnDAction : YoYo Games.Movement.Set_Speed
-	/// @DnDVersion : 1
-	/// @DnDHash : 6B105C6E
-	/// @DnDParent : 58282D29
-	/// @DnDArgument : "speed" "-2"
-	/// @DnDArgument : "type" "1"
-	hspeed = -2;
-
-	/// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
-	/// @DnDVersion : 1.1
-	/// @DnDHash : 3C84E9F9
-	/// @DnDParent : 58282D29
-	/// @DnDArgument : "x1" "-largeur"
-	/// @DnDArgument : "x1_relative" "1"
-	/// @DnDArgument : "y1" "-longueur"
-	/// @DnDArgument : "y1_relative" "1"
-	/// @DnDArgument : "x2" "-largeur"
-	/// @DnDArgument : "x2_relative" "1"
-	/// @DnDArgument : "y2" "longueur"
-	/// @DnDArgument : "y2_relative" "1"
-	/// @DnDArgument : "obj" "O_collision"
-	/// @DnDSaveInfo : "obj" "O_collision"
-	var l3C84E9F9_0 = collision_line(x + -largeur, y + -longueur, x + -largeur, y + longueur, O_collision, true, 1);if((l3C84E9F9_0)){	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDHash : 58282D29
+	/// @DnDParent : 187BD20A
+	/// @DnDArgument : "var" "marche_G"
+	/// @DnDArgument : "value" "true"
+	if(marche_G == true){	/// @DnDAction : YoYo Games.Instances.Sprite_Scale
 		/// @DnDVersion : 1
-		/// @DnDHash : 28B71055
-		/// @DnDInput : 2
-		/// @DnDParent : 3C84E9F9
-		/// @DnDArgument : "expr" "true"
-		/// @DnDArgument : "expr_1" "false"
-		/// @DnDArgument : "var" "marche_D"
-		/// @DnDArgument : "var_1" "marche_G"
-		marche_D = true;
-		marche_G = false;}}
+		/// @DnDHash : 2F6E7070
+		/// @DnDParent : 58282D29
+		/// @DnDArgument : "xscale" "-1 * abs(image_xscale)"
+		image_xscale = -1 * abs(image_xscale);image_yscale = 1;
+	
+		/// @DnDAction : YoYo Games.Movement.Set_Speed
+		/// @DnDVersion : 1
+		/// @DnDHash : 6B105C6E
+		/// @DnDParent : 58282D29
+		/// @DnDArgument : "speed" "-2"
+		/// @DnDArgument : "type" "1"
+		hspeed = -2;
+	
+		/// @DnDAction : YoYo Games.Collisions.If_Collision_Shape
+		/// @DnDVersion : 1.1
+		/// @DnDHash : 3C84E9F9
+		/// @DnDParent : 58282D29
+		/// @DnDArgument : "x1" "-largeur"
+		/// @DnDArgument : "x1_relative" "1"
+		/// @DnDArgument : "y1" "-longueur"
+		/// @DnDArgument : "y1_relative" "1"
+		/// @DnDArgument : "x2" "-largeur"
+		/// @DnDArgument : "x2_relative" "1"
+		/// @DnDArgument : "y2" "longueur"
+		/// @DnDArgument : "y2_relative" "1"
+		/// @DnDArgument : "obj" "O_collision"
+		/// @DnDSaveInfo : "obj" "O_collision"
+		var l3C84E9F9_0 = collision_line(x + -largeur, y + -longueur, x + -largeur, y + longueur, O_collision, true, 1);if((l3C84E9F9_0)){	/// @DnDAction : YoYo Games.Common.Variable
+			/// @DnDVersion : 1
+			/// @DnDHash : 28B71055
+			/// @DnDInput : 2
+			/// @DnDParent : 3C84E9F9
+			/// @DnDArgument : "expr" "true"
+			/// @DnDArgument : "expr_1" "false"
+			/// @DnDArgument : "var" "marche_D"
+			/// @DnDArgument : "var_1" "marche_G"
+			marche_D = true;
+			marche_G = false;}}}
