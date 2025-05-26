@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"O_mobtire",
+  "%Name":"O_helicocannon",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -9,11 +9,11 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_2","path":"objects/O_postier_2/O_postier_2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_mobtire",
+  "name":"O_helicocannon",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"mob",
+    "path":"folders/Objects/mob.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,15 +30,15 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"tpsrecharge","filters":[],"listItems":[],"multiselect":false,"name":"tpsrecharge","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"60","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"tpsrecharge","filters":[],"listItems":[],"multiselect":false,"name":"tpsrecharge","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"120","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"balledir","filters":[],"listItems":[],"multiselect":false,"name":"balledir","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_canon",
-    "path":"sprites/S_canon/S_canon.yy",
+    "name":"S_helicocannon",
+    "path":"sprites/S_helicocannon/S_helicocannon.yy",
   },
   "spriteMaskId":null,
   "visible":true,
