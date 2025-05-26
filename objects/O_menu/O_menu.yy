@@ -9,7 +9,10 @@
     "name":"bouton",
     "path":"folders/Objects/ui/bouton.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_bouton",
+    "path":"objects/O_bouton/O_bouton.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_menu",
+    "path":"sprites/S_menu/S_menu.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
