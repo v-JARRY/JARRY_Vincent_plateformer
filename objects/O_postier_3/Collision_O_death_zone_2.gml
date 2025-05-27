@@ -9,3 +9,10 @@ O_collecte.stock = -1;
 /// @DnDVersion : 1
 /// @DnDHash : 1945E4C8
 instance_destroy();
+
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDVersion : 1
+/// @DnDHash : 19595A6E
+/// @DnDArgument : "room" "dessert"
+/// @DnDSaveInfo : "room" "dessert"
+room_goto(dessert);

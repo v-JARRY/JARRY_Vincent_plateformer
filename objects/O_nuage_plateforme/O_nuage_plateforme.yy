@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_poste",
+  "%Name":"O_nuage_plateforme",
   "eventList":[],
   "managed":true,
-  "name":"O_poste",
+  "name":"O_nuage_plateforme",
   "overriddenProperties":[],
   "parent":{
-    "name":"norm",
-    "path":"folders/Objects/decord/norm.yy",
+    "name":"aero",
+    "path":"folders/Objects/decord/aero.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_poste",
-    "path":"sprites/S_poste/S_poste.yy",
+    "name":"S_nuage_plateforme",
+    "path":"sprites/S_nuage_plateforme/S_nuage_plateforme.yy",
   },
   "spriteMaskId":null,
   "visible":true,
