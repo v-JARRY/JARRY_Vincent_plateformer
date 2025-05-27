@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_mob",
+  "%Name":"O_pasteluse",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_3","path":"objects/O_postier_3/O_postier_3.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_2","path":"objects/O_postier_2/O_postier_2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier","path":"objects/O_postier/O_postier.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_mob",
+  "name":"O_pasteluse",
   "overriddenProperties":[],
   "parent":{
     "name":"mob",
@@ -32,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_mob",
-    "path":"sprites/S_mob/S_mob.yy",
+    "name":"S_pasteluse",
+    "path":"sprites/S_pasteluse/S_pasteluse.yy",
   },
   "spriteMaskId":null,
   "visible":true,
