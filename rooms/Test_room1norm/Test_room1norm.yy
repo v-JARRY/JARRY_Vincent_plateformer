@@ -46,6 +46,7 @@
     {"name":"inst_1F8B4BD1","path":"rooms/Test_room1norm/Test_room1norm.yy",},
     {"name":"inst_5402F4D6","path":"rooms/Test_room1norm/Test_room1norm.yy",},
     {"name":"inst_3F8977F2","path":"rooms/Test_room1norm/Test_room1norm.yy",},
+    {"name":"inst_1844920A","path":"rooms/Test_room1norm/Test_room1norm.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -84,6 +85,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_crabococo","path":"objects/O_crabococo/O_crabococo.yy",},"propertyId":{"name":"vitesse","path":"objects/O_crabococo/O_crabococo.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.22580644,"scaleY":0.22580644,"x":656.0,"y":432.0,},
         {"$GMRInstance":"v1","%Name":"inst_3F8977F2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3F8977F2","objectId":{"name":"O_noixbooom","path":"objects/O_noixbooom/O_noixbooom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":224.0,},
+        {"$GMRInstance":"v1","%Name":"inst_1844920A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1844920A","objectId":{"name":"O_heliboom","path":"objects/O_heliboom/O_heliboom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":224.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"decord","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_724E7928","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_724E7928","objectId":{"name":"O_eau","path":"objects/O_eau/O_eau.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":305.0,"y":504.0,},
