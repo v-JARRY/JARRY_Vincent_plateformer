@@ -142,6 +142,8 @@
     {"id":{"name":"S_mob","path":"sprites/S_mob/S_mob.yy",},},
     {"id":{"name":"S_noixbooom","path":"sprites/S_noixbooom/S_noixbooom.yy",},},
     {"id":{"name":"S_noixbooom2","path":"sprites/S_noixbooom2/S_noixbooom2.yy",},},
+    {"id":{"name":"S_noixbooom3","path":"sprites/S_noixbooom3/S_noixbooom3.yy",},},
+    {"id":{"name":"S_noixbooom4","path":"sprites/S_noixbooom4/S_noixbooom4.yy",},},
     {"id":{"name":"S_norm_marche1","path":"sprites/S_norm_marche1/S_norm_marche1.yy",},},
     {"id":{"name":"S_norm_marche2","path":"sprites/S_norm_marche2/S_norm_marche2.yy",},},
     {"id":{"name":"S_nuage_plateforme","path":"sprites/S_nuage_plateforme/S_nuage_plateforme.yy",},},

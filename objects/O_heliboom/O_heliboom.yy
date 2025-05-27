@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_heliboom",
+    "path":"sprites/S_heliboom/S_heliboom.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
