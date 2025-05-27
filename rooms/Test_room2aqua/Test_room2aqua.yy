@@ -20,6 +20,8 @@
     {"name":"inst_5C0A496B","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},
     {"name":"inst_602A8AE6","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},
     {"name":"inst_64771024","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},
+    {"name":"inst_535AB27A","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},
+    {"name":"inst_50F64049","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -40,6 +42,10 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_hypostel","path":"objects/O_hypostel/O_hypostel.yy",},"propertyId":{"name":"vitesse","path":"objects/O_hypostel/O_hypostel.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.48387095,"scaleY":0.48387095,"x":480.0,"y":288.0,},
         {"$GMRInstance":"v1","%Name":"inst_64771024","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_64771024","objectId":{"name":"O_pasteluse","path":"objects/O_pasteluse/O_pasteluse.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.33064517,"scaleY":0.30645162,"x":977.5,"y":362.0,},
+        {"$GMRInstance":"v1","%Name":"inst_535AB27A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_535AB27A","objectId":{"name":"O_poulpy","path":"objects/O_poulpy/O_poulpy.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1120.0,"y":352.0,},
+        {"$GMRInstance":"v1","%Name":"inst_50F64049","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_50F64049","objectId":{"name":"O_crabystelle","path":"objects/O_crabystelle/O_crabystelle.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_crabystelle","path":"objects/O_crabystelle/O_crabystelle.yy",},"propertyId":{"name":"vitesse","path":"objects/O_crabystelle/O_crabystelle.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.22580644,"scaleY":0.22580644,"x":379.0,"y":377.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

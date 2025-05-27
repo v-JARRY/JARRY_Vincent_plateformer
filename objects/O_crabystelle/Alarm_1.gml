@@ -1,11 +1,3 @@
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 30C67EE9
-/// @DnDArgument : "spriteind" "S_hippostel_2"
-/// @DnDSaveInfo : "spriteind" "S_hippostel_2"
-sprite_index = S_hippostel_2;
-image_index = 0;
-
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 509391D3

@@ -1,13 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"O_helicocannon",
+  "%Name":"O_crabococo",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_3","path":"objects/O_postier_3/O_postier_3.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_2","path":"objects/O_postier_2/O_postier_2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_helicocannon",
+  "name":"O_crabococo",
   "overriddenProperties":[],
   "parent":{
     "name":"mob",
@@ -28,15 +29,14 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"tpsrecharge","filters":[],"listItems":[],"multiselect":false,"name":"tpsrecharge","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"120","varType":1,},
-    {"$GMObjectProperty":"v1","%Name":"balledir","filters":[],"listItems":[],"multiselect":false,"name":"balledir","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"vitesse","filters":[],"listItems":[],"multiselect":false,"name":"vitesse","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_helicocannon",
-    "path":"sprites/S_helicocannon/S_helicocannon.yy",
+    "name":"S_crabococo",
+    "path":"sprites/S_crabococo/S_crabococo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

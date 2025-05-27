@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_helicocannon",
+  "%Name":"O_poulpy",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_3","path":"objects/O_postier_3/O_postier_3.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_postier_2","path":"objects/O_postier_2/O_postier_2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_helicocannon",
+  "name":"O_poulpy",
   "overriddenProperties":[],
   "parent":{
     "name":"mob",
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_helicocannon",
-    "path":"sprites/S_helicocannon/S_helicocannon.yy",
+    "name":"S_poulpy",
+    "path":"sprites/S_poulpy/S_poulpy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

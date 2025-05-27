@@ -1,22 +1,22 @@
 /// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 /// @DnDVersion : 1
-/// @DnDHash : 111C9DA4
+/// @DnDHash : 166D22D7
 /// @DnDArgument : "obj" "O_shild"
 /// @DnDArgument : "not" "1"
 /// @DnDSaveInfo : "obj" "O_shild"
-var l111C9DA4_0 = false;l111C9DA4_0 = instance_exists(O_shild);if(!l111C9DA4_0){	/// @DnDAction : YoYo Games.Common.If_Variable
+var l166D22D7_0 = false;l166D22D7_0 = instance_exists(O_shild);if(!l166D22D7_0){	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
-	/// @DnDHash : 3FBBBDA5
+	/// @DnDHash : 649ED751
 	/// @DnDApplyTo : {O_collecte}
-	/// @DnDParent : 111C9DA4
+	/// @DnDParent : 166D22D7
 	/// @DnDArgument : "var" "invincibilite"
 	/// @DnDArgument : "value" "false"
-	with(O_collecte) var l3FBBBDA5_0 = invincibilite == false;
-	if(l3FBBBDA5_0){	/// @DnDAction : YoYo Games.Common.Variable
+	with(O_collecte) var l649ED751_0 = invincibilite == false;
+	if(l649ED751_0){	/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 243F4B1F
+		/// @DnDHash : 1900EBE6
 		/// @DnDApplyTo : {O_collecte}
-		/// @DnDParent : 3FBBBDA5
+		/// @DnDParent : 649ED751
 		/// @DnDArgument : "expr" "-1"
 		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "stock"
@@ -27,9 +27,9 @@ var l111C9DA4_0 = false;l111C9DA4_0 = instance_exists(O_shild);if(!l111C9DA4_0
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
-		/// @DnDHash : 33415F4D
+		/// @DnDHash : 50E0D21F
 		/// @DnDApplyTo : {O_collecte}
-		/// @DnDParent : 3FBBBDA5
+		/// @DnDParent : 649ED751
 		/// @DnDArgument : "expr" "true"
 		/// @DnDArgument : "var" "invincibilite"
 		with(O_collecte) {
@@ -39,9 +39,9 @@ var l111C9DA4_0 = false;l111C9DA4_0 = instance_exists(O_shild);if(!l111C9DA4_0
 	
 		/// @DnDAction : YoYo Games.Instances.Set_Alarm
 		/// @DnDVersion : 1
-		/// @DnDHash : 06A28A7B
+		/// @DnDHash : 2642E403
 		/// @DnDApplyTo : {O_collecte}
-		/// @DnDParent : 3FBBBDA5
+		/// @DnDParent : 649ED751
 		/// @DnDArgument : "steps" "120"
 		with(O_collecte) {
 		alarm_set(0, 120);
