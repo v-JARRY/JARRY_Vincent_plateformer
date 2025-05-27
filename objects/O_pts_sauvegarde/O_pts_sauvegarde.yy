@@ -8,8 +8,8 @@
   "name":"O_pts_sauvegarde",
   "overriddenProperties":[],
   "parent":{
-    "name":"decord",
-    "path":"folders/Objects/decord.yy",
+    "name":"ui",
+    "path":"folders/Objects/ui.yy",
   },
   "parentObjectId":null,
   "persistent":false,
