@@ -10,11 +10,11 @@ if(stock < 0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDParent : 5D6EA881
 	/// @DnDArgument : "expr" "x_rea_poste"
 	/// @DnDArgument : "expr_1" "y_rea_poste"
-	/// @DnDArgument : "var" "O_postier.x"
-	/// @DnDArgument : "var_1" "O_postier.y"
+	/// @DnDArgument : "var" "O_postier_parent.x"
+	/// @DnDArgument : "var_1" "O_postier_parent.y"
 	/// @DnDArgument : "var_2" "stock"
-	O_postier.x = x_rea_poste;
-	O_postier.y = y_rea_poste;
+	O_postier_parent.x = x_rea_poste;
+	O_postier_parent.y = y_rea_poste;
 	stock = 0;
 
 	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
