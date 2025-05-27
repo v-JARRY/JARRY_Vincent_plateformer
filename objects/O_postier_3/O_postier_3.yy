@@ -18,7 +18,10 @@
     "name":"perso_aero",
     "path":"folders/Objects/perso_aero.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_postier_parent",
+    "path":"objects/O_postier_parent/O_postier_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
