@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_arriere",
+    "path":"sprites/S_arriere/S_arriere.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

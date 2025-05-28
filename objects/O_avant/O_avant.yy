@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_avant",
+    "path":"sprites/S_avant/S_avant.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

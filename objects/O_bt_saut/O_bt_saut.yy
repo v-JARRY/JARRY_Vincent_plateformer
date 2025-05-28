@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_bt_saut",
+    "path":"sprites/S_bt_saut/S_bt_saut.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_bt_bouclier",
+    "path":"sprites/S_bt_bouclier/S_bt_bouclier.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"S_bt_dash",
+    "path":"sprites/S_bt_dash/S_bt_dash.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
