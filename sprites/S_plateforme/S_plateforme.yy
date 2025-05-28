@@ -3,7 +3,7 @@
   "%Name":"S_plateforme",
   "bboxMode":2,
   "bbox_bottom":72,
-  "bbox_left":24,
+  "bbox_left":37,
   "bbox_right":100,
   "bbox_top":56,
   "collisionKind":1,
