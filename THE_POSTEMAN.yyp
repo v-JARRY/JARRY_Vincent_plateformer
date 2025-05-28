@@ -95,6 +95,7 @@
     {"id":{"name":"O_intro","path":"objects/O_intro/O_intro.yy",},},
     {"id":{"name":"O_lettre_dialogue","path":"objects/O_lettre_dialogue/O_lettre_dialogue.yy",},},
     {"id":{"name":"O_maison","path":"objects/O_maison/O_maison.yy",},},
+    {"id":{"name":"O_manager_paralaxe","path":"objects/O_manager_paralaxe/O_manager_paralaxe.yy",},},
     {"id":{"name":"O_menu","path":"objects/O_menu/O_menu.yy",},},
     {"id":{"name":"O_mob","path":"objects/O_mob/O_mob.yy",},},
     {"id":{"name":"O_montagne","path":"objects/O_montagne/O_montagne.yy",},},
