@@ -28,6 +28,7 @@
     {"name":"inst_617741AF","path":"rooms/Test_room3aero/Test_room3aero.yy",},
     {"name":"inst_7D33321A","path":"rooms/Test_room3aero/Test_room3aero.yy",},
     {"name":"inst_A6BFC49","path":"rooms/Test_room3aero/Test_room3aero.yy",},
+    {"name":"inst_70951B2F","path":"rooms/Test_room3aero/Test_room3aero.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -51,6 +52,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_helicocannon","path":"objects/O_helicocannon/O_helicocannon.yy",},"propertyId":{"name":"balledir","path":"objects/O_helicocannon/O_helicocannon.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"-90",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.7419355,"scaleY":0.7419355,"x":432.0,"y":48.0,},
         {"$GMRInstance":"v1","%Name":"inst_7D33321A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D33321A","objectId":{"name":"O_postier_parent","path":"objects/O_postier_parent/O_postier_parent.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":0.0,},
+        {"$GMRInstance":"v1","%Name":"inst_70951B2F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_70951B2F","objectId":{"name":"O_roomChange","path":"objects/O_roomChange/O_roomChange.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":7.580645,"x":1344.0,"y":384.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_2F5D7E12","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2F5D7E12","objectId":{"name":"O_postier_3","path":"objects/O_postier_3/O_postier_3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":288.0,},
