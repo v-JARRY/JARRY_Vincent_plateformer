@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_eau",
+  "%Name":"O_montagne",
   "eventList":[],
   "managed":true,
-  "name":"O_eau",
+  "name":"O_montagne",
   "overriddenProperties":[],
   "parent":{
-    "name":"THE_POSTEMAN",
-    "path":"THE_POSTEMAN.yyp",
+    "name":"norm",
+    "path":"folders/Objects/decord/norm.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_eau",
-    "path":"sprites/S_eau/S_eau.yy",
+    "name":"S_montagne",
+    "path":"sprites/S_montagne/S_montagne.yy",
   },
   "spriteMaskId":null,
   "visible":true,
