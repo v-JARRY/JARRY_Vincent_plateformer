@@ -37,7 +37,7 @@
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"S_plateforme",
     "path":"sprites/S_plateforme/S_plateforme.yy",

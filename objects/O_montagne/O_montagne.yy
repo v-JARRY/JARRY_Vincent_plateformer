@@ -9,7 +9,10 @@
     "name":"norm",
     "path":"folders/Objects/decord/norm.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_manager_paralaxe",
+    "path":"objects/O_manager_paralaxe/O_manager_paralaxe.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
