@@ -87,6 +87,7 @@
     {"id":{"name":"O_espace","path":"objects/O_espace/O_espace.yy",},},
     {"id":{"name":"O_fonceapic","path":"objects/O_fonceapic/O_fonceapic.yy",},},
     {"id":{"name":"O_game_over","path":"objects/O_game_over/O_game_over.yy",},},
+    {"id":{"name":"O_glob","path":"objects/O_glob/O_glob.yy",},},
     {"id":{"name":"O_heliboom","path":"objects/O_heliboom/O_heliboom.yy",},},
     {"id":{"name":"O_helicocannon","path":"objects/O_helicocannon/O_helicocannon.yy",},},
     {"id":{"name":"O_hypostel","path":"objects/O_hypostel/O_hypostel.yy",},},
