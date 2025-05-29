@@ -30,6 +30,8 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"stock","filters":[],"listItems":[],"multiselect":false,"name":"stock","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"invincibilite","filters":[],"listItems":[],"multiselect":false,"name":"invincibilite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"x_rea_poste","filters":[],"listItems":[],"multiselect":false,"name":"x_rea_poste","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"y_rea","filters":[],"listItems":[],"multiselect":false,"name":"y_rea","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
