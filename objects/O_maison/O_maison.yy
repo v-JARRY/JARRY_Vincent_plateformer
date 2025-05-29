@@ -6,8 +6,8 @@
   "name":"O_maison",
   "overriddenProperties":[],
   "parent":{
-    "name":"decord",
-    "path":"folders/Objects/decord.yy",
+    "name":"norm",
+    "path":"folders/Objects/decord/norm.yy",
   },
   "parentObjectId":null,
   "persistent":false,

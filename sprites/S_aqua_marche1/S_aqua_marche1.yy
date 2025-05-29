@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
   "%Name":"S_aqua_marche1",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":101,
   "bbox_left":35,
-  "bbox_right":89,
+  "bbox_right":90,
   "bbox_top":24,
   "collisionKind":1,
   "collisionTolerance":0,

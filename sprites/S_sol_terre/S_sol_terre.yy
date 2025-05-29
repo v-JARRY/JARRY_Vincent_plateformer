@@ -2,24 +2,24 @@
   "$GMSprite":"",
   "%Name":"S_sol_terre",
   "bboxMode":0,
-  "bbox_bottom":85,
-  "bbox_left":0,
-  "bbox_right":123,
-  "bbox_top":46,
+  "bbox_bottom":78,
+  "bbox_left":43,
+  "bbox_right":80,
+  "bbox_top":45,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"329ebdf1-7028-4322-ba98-c6d6b2aba7de","name":"329ebdf1-7028-4322-ba98-c6d6b2aba7de","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"af518006-ef39-4977-9e53-43acbaf53054","name":"af518006-ef39-4977-9e53-43acbaf53054","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":124,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"89b8ea13-87be-46b7-8fbf-0726e84d7e50","blendMode":0,"displayName":"default","isLocked":false,"name":"89b8ea13-87be-46b7-8fbf-0726e84d7e50","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"78dca674-9d82-4941-aabf-15286c7554f6","blendMode":0,"displayName":"default","isLocked":false,"name":"78dca674-9d82-4941-aabf-15286c7554f6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"S_sol_terre",
   "nineSlice":null,
@@ -68,7 +68,13 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
+<<<<<<< HEAD
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"329ebdf1-7028-4322-ba98-c6d6b2aba7de","path":"sprites/S_sol_terre/S_sol_terre.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1a42713c-4d7e-46b4-876a-39232e4b790a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+=======
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"af518006-ef39-4977-9e53-43acbaf53054","path":"sprites/S_sol_terre/S_sol_terre.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"33438c9e-deb0-4c7e-8f45-f8f694460a48","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>> 10691b4269e06bf02904121fec0e21c03a2ef057
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

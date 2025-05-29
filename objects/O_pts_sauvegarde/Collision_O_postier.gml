@@ -12,7 +12,7 @@ image_index = 0;
 /// @DnDInput : 2
 /// @DnDArgument : "expr" "x"
 /// @DnDArgument : "expr_1" "y"
-/// @DnDArgument : "var" "O_postier.x_checkpoint"
-/// @DnDArgument : "var_1" "O_postier.y_checkponit"
-O_postier.x_checkpoint = x;
-O_postier.y_checkponit = y;
+/// @DnDArgument : "var" "O_collecte.x_rea_poste"
+/// @DnDArgument : "var_1" "O_collecte.y_rea_poste"
+O_collecte.x_rea_poste = x;
+O_collecte.y_rea_poste = y;
