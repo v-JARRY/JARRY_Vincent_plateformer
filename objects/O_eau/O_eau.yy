@@ -6,8 +6,8 @@
   "name":"O_eau",
   "overriddenProperties":[],
   "parent":{
-    "name":"THE_POSTEMAN",
-    "path":"THE_POSTEMAN.yyp",
+    "name":"decord",
+    "path":"folders/Objects/decord.yy",
   },
   "parentObjectId":null,
   "persistent":false,
