@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_dead_zone",
-    "path":"sprites/S_dead_zone/S_dead_zone.yy",
+    "name":"S_orage",
+    "path":"sprites/S_orage/S_orage.yy",
   },
   "spriteMaskId":null,
   "visible":true,

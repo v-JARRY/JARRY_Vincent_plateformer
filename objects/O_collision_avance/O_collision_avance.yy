@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"S_collision",
-    "path":"sprites/S_collision/S_collision.yy",
+    "name":"S_avant_orage",
+    "path":"sprites/S_avant_orage/S_avant_orage.yy",
   },
   "spriteMaskId":null,
   "visible":true,
