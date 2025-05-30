@@ -7,15 +7,23 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_6AFFED1B","path":"rooms/intro_aqua/intro_aqua.yy",},
+    {"name":"inst_15D30188","path":"rooms/intro_aqua/intro_aqua.yy",},
+    {"name":"inst_2EB8C310","path":"rooms/intro_aqua/intro_aqua.yy",},
+    {"name":"inst_5D7CBFE","path":"rooms/intro_aqua/intro_aqua.yy",},
+    {"name":"inst_411925C9","path":"rooms/intro_aqua/intro_aqua.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v1","%Name":"inst_15D30188","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_15D30188","objectId":{"name":"O_sol","path":"objects/O_sol/O_sol.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":21.5,"scaleY":1.5,"x":688.0,"y":720.0,},
+        {"$GMRInstance":"v1","%Name":"inst_2EB8C310","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2EB8C310","objectId":{"name":"O_lettre_dialogue","path":"objects/O_lettre_dialogue/O_lettre_dialogue.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.193548,"scaleY":5.903226,"x":448.0,"y":368.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5D7CBFE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5D7CBFE","objectId":{"name":"O_caffe","path":"objects/O_caffe/O_caffe.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.8387096,"scaleY":4.354839,"x":1120.0,"y":480.0,},
         {"$GMRInstance":"v1","%Name":"inst_6AFFED1B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6AFFED1B","objectId":{"name":"O_suite","path":"objects/O_suite/O_suite.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_bouton","path":"objects/O_bouton/O_bouton.yy",},"propertyId":{"name":"go","path":"objects/O_bouton/O_bouton.yy",},"resource":{"name":"Test_room2aqua","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Test_room2aqua",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1056.0,"y":704.0,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1312.0,"y":736.0,},
+        {"$GMRInstance":"v1","%Name":"inst_411925C9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_411925C9","objectId":{"name":"O_texte_aqua","path":"objects/O_texte_aqua/O_texte_aqua.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.51309705,"scaleY":0.38181818,"x":414.0,"y":259.30914,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4286545791,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"intro_aqua",
   "parent":{

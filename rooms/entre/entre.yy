@@ -50,6 +50,7 @@
     {"name":"inst_227D5475","path":"rooms/entre/entre.yy",},
     {"name":"inst_58F6018A","path":"rooms/entre/entre.yy",},
     {"name":"inst_5207CEBB","path":"rooms/entre/entre.yy",},
+    {"name":"inst_4110558","path":"rooms/entre/entre.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -74,6 +75,7 @@
         {"$GMRInstance":"v1","%Name":"inst_7C1CD01D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7C1CD01D","objectId":{"name":"O_quitter","path":"objects/O_quitter/O_quitter.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_bouton","path":"objects/O_bouton/O_bouton.yy",},"propertyId":{"name":"go","path":"objects/O_bouton/O_bouton.yy",},"resource":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"noone",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":320.0,},
+        {"$GMRInstance":"v1","%Name":"inst_4110558","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4110558","objectId":{"name":"O_snd_3","path":"objects/O_snd_3/O_snd_3.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"decord_fond","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_3EED46D9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3EED46D9","objectId":{"name":"O_c_soileil","path":"objects/O_c_soileil/O_c_soileil.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":11.096776,"scaleY":11.322578,"x":686.0001,"y":383.99994,},
