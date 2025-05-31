@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"THE_POSTEMAN",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -51,6 +51,7 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -244,8 +245,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"entre","path":"rooms/entre/entre.yy",},},
-    {"roomId":{"name":"Test_room3aero","path":"rooms/Test_room3aero/Test_room3aero.yy",},},
     {"roomId":{"name":"Test_room2aqua","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},},
+    {"roomId":{"name":"Test_room3aero","path":"rooms/Test_room3aero/Test_room3aero.yy",},},
     {"roomId":{"name":"Test_room1norm","path":"rooms/Test_room1norm/Test_room1norm.yy",},},
     {"roomId":{"name":"dessert","path":"rooms/dessert/dessert.yy",},},
     {"roomId":{"name":"Option","path":"rooms/Option/Option.yy",},},

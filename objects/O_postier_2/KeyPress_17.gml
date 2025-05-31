@@ -31,6 +31,6 @@ if(l39DFEA90_0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 5FD95E2F
 	/// @DnDParent : 39DFEA90
-	/// @DnDArgument : "expr" "dir_x*50"
+	/// @DnDArgument : "expr" "dir_x*25"
 	/// @DnDArgument : "var" "hspeed"
-	hspeed = dir_x*50;}
+	hspeed = dir_x*25;}
