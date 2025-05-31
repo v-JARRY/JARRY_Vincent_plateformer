@@ -10,11 +10,11 @@ if(l5F2D66F5_0){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDHash : 6240E699
 	/// @DnDApplyTo : {O_collecte}
 	/// @DnDParent : 5F2D66F5
-	/// @DnDArgument : "expr" "-5"
+	/// @DnDArgument : "expr" "-1"
 	/// @DnDArgument : "expr_relative" "1"
 	/// @DnDArgument : "var" "stock"
 	with(O_collecte) {
-	stock += -5;
+	stock += -1;
 	
 	}
 
