@@ -243,6 +243,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"fin","path":"rooms/fin/fin.yy",},},
     {"roomId":{"name":"entre","path":"rooms/entre/entre.yy",},},
     {"roomId":{"name":"Test_room2aqua","path":"rooms/Test_room2aqua/Test_room2aqua.yy",},},
     {"roomId":{"name":"Test_room3aero","path":"rooms/Test_room3aero/Test_room3aero.yy",},},
@@ -252,7 +253,6 @@
     {"roomId":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
     {"roomId":{"name":"intro_aqua","path":"rooms/intro_aqua/intro_aqua.yy",},},
     {"roomId":{"name":"intro_aero","path":"rooms/intro_aero/intro_aero.yy",},},
-    {"roomId":{"name":"fin","path":"rooms/fin/fin.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
